@@ -7368,7 +7368,7 @@
 },
 {
     "name": "IGGGAMES » Free Download PC Games - Direct Links - Torrent",
-    "url": "^https?://igg-games\\.com/",
+    "url": "^https?://igg-games.com/\\?s=[a-z]+",
     "author": "hhhllll",
     "pageElement": "main.tm-main:nth-child(4) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)",
     "nextLink": ".uk-pagination>.uk-active ~ li>a"
